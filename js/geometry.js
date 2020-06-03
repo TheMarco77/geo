@@ -27,7 +27,7 @@ function circleArea(radius) {
 //    and return the volume.
 //    The volume of a circle is: 4/3 *  π * radius^3
 function sphereVolume(radius) {
-    return (4 / 3) * Math.PI * Math.pow(radius, 3);
+    return (4 / 3) * Math.PI * Math.pow(radius, 4);
 }
 
 // 5. Use console.log to test each function and output to the JavaScript console
